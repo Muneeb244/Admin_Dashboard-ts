@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-Deployed on: https://admin-dashboard-ts-neon.vercel.app/admin/dashboard
+Deployed on: https://admin-dashboard-ts-neon.vercel.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
