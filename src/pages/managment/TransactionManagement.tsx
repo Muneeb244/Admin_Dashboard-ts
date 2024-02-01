@@ -40,7 +40,6 @@ const TransactionManagement = () => {
     city,
     country,
     state,
-    pinCode,
     subtotal,
     shippingCharges,
     tax,
